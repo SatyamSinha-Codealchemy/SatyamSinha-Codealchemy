@@ -1,43 +1,45 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satyam+Sinha;Software+Engineer+%7C+Game+Developer+%7C+ML+Explorer;Building+Reliable+%26+Impactful+Tech" 
-       alt="Hi, I'm Satyam Sinha — Software Engineer, Game Developer, ML Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satyam+Sinha;Full-Stack+Dev+%7C+Game+Dev+%7C+ML+Enthusiast;Building+Impactful+Software+%26+AI+Systems" 
+       alt="Hi, I'm Satyam Sinha — Full-Stack Developer, Game Developer, ML Enthusiast" />
 </p>
 
-<br>
+<p align="center"><em>Satyam Kumar Sinha — Full-Stack Developer, Game Developer & ML/AI Enthusiast building scalable, high-impact software systems.</em></p>
 
-# 🚀 Satyam Kumar Sinha — Engineering Smarter Futures
+---
+
+# 🚀 Satyam Kumar Sinha
 
 **Software Engineer | Full-Stack Developer | Game Developer | Machine Learning Enthusiast**  
+
 Designing high-performance digital experiences with clarity, structure, and technical depth.  
 
 ---
 
 ## ⚡ Quick Bio
-I’m **Satyam Kumar Sinha**, a fourth-year Computer Science student driven by a builder’s mindset. I work across **software engineering, game development, and machine learning**, creating systems that are functional, scalable, and user-focused.
+Computer Science student driven by a **builder’s mindset**, creating systems that are functional, scalable, and user-focused.  
 
 **Key Areas:**  
-- Software Development (Full-Stack, Backend, Python, Java, C#)  
-- Game Development (Unity, C#)  
-- Machine Learning & AI (TensorFlow, Scikit-learn, OpenCV, Pandas)  
-- Cloud Computing & AWS Fundamentals  
-- Corporate-ready communication & problem-solving  
+- *Software Development*: Full-Stack, Backend (Python, Java, C#)  
+- *Game Development*: Unity, C#  
+- *Machine Learning & AI*: TensorFlow, Scikit-learn, OpenCV, Pandas  
+- *Cloud Fundamentals*: AWS basics  
+- *Communication & Problem-Solving*: Corporate-ready skills  
 
 ---
 
 ## 🧩 Tech Stack
 
-### **Languages**
+**Languages:**  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### **Frameworks & Tools**
+**Frameworks & Tools:**  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -48,7 +50,7 @@ I’m **Satyam Kumar Sinha**, a fourth-year Computer Science student driven by a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### **AI / ML**
+**AI / ML:**  
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
@@ -59,38 +61,32 @@ I’m **Satyam Kumar Sinha**, a fourth-year Computer Science student driven by a
 ---
 
 ## 🏆 Featured Projects
-> Projects optimized for visibility with descriptive text for indexing.
 
-### 🔹 **Human Disease Prediction** (Python, ML, Streamlit)  
-Multi-disease prediction system using machine learning, structured pre-processing, and a clean user interface.  
+**Human Disease Prediction** — Python, ML, Streamlit  
+> Multi-disease prediction system with clean UI and structured preprocessing.
 
-### 🔹 **Potato Leaf Disease Detection** (Python, Deep Learning, CNN)  
-TensorFlow-based convolutional neural network pipeline for leaf disease classification with performance metrics.  
+**Potato Leaf Disease Detection** — Python, Deep Learning, CNN  
+> TensorFlow-based CNN pipeline for plant disease classification.
 
-### 🔹 **Library Management System** (PHP, MySQL)  
-Role-based authentication, CRUD dashboards, and optimized database schema for school and college libraries.  
+**Library Management System** — PHP, MySQL  
+> Role-based dashboards and optimized database schema.
 
-### 🔹 **Unity Games (10+ projects)**  
-High-quality gameplay mechanics, optimized UI, physics, and custom game systems built in Unity with C#.  
+**Unity Games (10+ projects)**  
+> High-quality gameplay mechanics, UI/UX optimization, and physics-based systems.
 
 ---
 
 ## 🎯 Current Focus (2025)
-- Production-ready **ML pipelines** with deployment and real-world reliability  
-- **Full-stack systems** optimized for performance, security, and scalability  
-- **High-polish Unity games** with engaging UI/UX and performance optimization  
-- Contributing to **open-source projects** via PRs, fixes, and feature additions  
-- Strengthening **corporate-grade backend, ML, and system design skills**  
+- Production-ready **ML pipelines**  
+- **Full-stack systems** with performance & security  
+- **High-polish Unity games**  
+- Open-source contributions via PRs and fixes  
+- Corporate-grade **backend, ML, and system design skills**  
 
 ---
 
 ## 💼 Career Intent
-Open to:  
-- Software Engineering Internships  
-- Game Development Roles  
-- ML / AI Internships  
-- Technical Trainee Roles  
-- Collaboration & Co-building  
+Open to: Software Engineering Internships, Game Development, ML/AI Roles, Technical Trainee positions, and Collaboration projects.  
 
 ---
 
@@ -110,6 +106,6 @@ Open to:
 ---
 
 ## ✨ Personal Note
-I combine technical capability with structured problem-solving and a business-aligned mindset — building systems that deliver long-term value and real-world impact.
+I combine **technical expertise** with **structured problem-solving** and a **business-aligned mindset** to build systems that deliver long-term value and real-world impact.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
