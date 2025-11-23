@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • Game Developer • Cloud Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=FF5733&center=true&vCenter=true&lines=Developer+%7C+Creator+%7C+Tech+Explorer;Frontend+%7C+Game+Dev+%7C+Cloud;Always+learning+new+things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=FF5733&center=true&vCenter=true&lines= Developer+%7C+Creator+%7C+Tech+Explorer;Frontend+%7C+Game+Dev+%7C+Cloud;Always+learning+new+things+✨" />
 </p>
 
 ---
