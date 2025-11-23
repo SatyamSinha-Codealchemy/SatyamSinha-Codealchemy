@@ -1,36 +1,34 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satyam+Sinha;Aspiring+Software+Engineer;Game+Developer+%7C+ML+Explorer;Building+Smart+%26+Impactful+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satyam+Sinha;Software+Engineer+%7C+Game+Developer+%7C+ML+Explorer;Building+Reliable+%26+Impactful+Tech" />
 </p>
 
-<!-- Wave SVG -->
+<br>
 
-
-# <p align="center">✨ **Satyam Sinha — Engineering Smarter Futures** ✨</p>
-
+<h1 align="center">🚀 Satyam Sinha — Engineering Smarter Futures</h1>
 <p align="center">
-  <strong>Creating seamless digital experiences — blending code, creativity, and clarity.</strong>
+  <strong>Designing high-performance digital experiences with clarity, structure, and technical depth.</strong>
 </p>
 
 ---
 
-## ⚡ **Professional Snapshot**
-I’m Satyam — a learner with the mindset of a builder.
-I work across software engineering, game development, and machine learning to create clean, functional, and user-focused digital solutions. My approach blends structured thinking, technical depth, and a commitment to building systems that perform reliably in real use cases.
+## ⚡ Professional Snapshot
+A fourth-year CSE student driven by a builder’s mindset — I work across **software engineering**, **game development**, and **machine learning** to create systems that are functional, scalable, and user-focused.
 
-I work at the intersection of:
+I operate at the intersection of:
 
-- **Software Development** (Full-Stack + Backend)  
-- **Game Engineering** (Unity + C#)  
-- **Machine Learning** (Python, Scikit-learn, TensorFlow)  
-- **Cloud Fundamentals** (AWS AI)  
-- **PR + Strong Communication**  
+- **Software Development** (Full-Stack • Backend)
+- **Game Engineering** (Unity + C#)
+- **Machine Learning** (Python, TensorFlow, Scikit-learn)
+- **Cloud Fundamentals** (AWS AI)
+- **Communication & PR**
 
-Corporate-ready. Fast-learning. Impact-driven.
+Corporate-ready • Fast-learning • Tech-first approach.
 
 ---
 
-## 🚀 **Tech Stack**
+## 🧩 Tech Stack
+
 ### **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,46 +60,45 @@ Corporate-ready. Fast-learning. Impact-driven.
 
 ---
 
-## 🏆 **Featured Work**
-> *Since I recently joined GitHub, I’ll be uploading my projects regularly.*
+## 🏆 Featured Projects
+> Uploading more soon — maintaining a consistent commit & release cycle.
 
 ### 🔹 **Human Disease Prediction (ML + Streamlit)**  
-Clean UI + multi-disease prediction using ML models.
+A multi-disease prediction system with structured pre-processing and clean UI.
 
 ### 🔹 **Potato Leaf Disease Detection (DL + CNN)**  
-TensorFlow CNN model + image classification pipeline.
+TensorFlow-based CNN pipeline with image classification & evaluation metrics.
 
 ### 🔹 **Library Management System (PHP + SQL)**  
-End-to-end CRUD + user auth + dashboards.
+Role-based authentication, CRUD dashboards, and optimized DB schema.
 
-### 🔹 **10+ Unity Games**  
-Different genres • gameplay mechanics • UI systems • performance-optimized.
+### 🔹 **Unity Games (10+ projects)**  
+Gameplay systems, UI flows, physics, optimization, and custom mechanics.
 
----
+## 🎯 Current Focus (2025)
 
-## 📊 **Current Focus (2025)**
-- Building advanced ML pipelines  
-- Scaling full-stack apps  
-- Developing polished Unity games  
-- Contributing to open-source  
-- Preparing for corporate-level roles  
-
----
-
-## 💼 **Career Intent**
-I’m actively looking for:
-
-✔ Software Engineering Internships  
-✔ Game Development Roles  
-✔ ML & AI Internships  
-✔ Corporate Technical Trainee Roles  
-✔ Collaborative Projects  
-
-Strong in **communication + PR + engineering**, I bring a unique corporate fit.
+- **Designing production-ready ML pipelines** with real-world performance and deployment reliability  
+- **Building scalable full-stack systems** optimized for speed, robustness, and clean architecture  
+- **Developing high-polish Unity games** with refined gameplay, UI flow, and performance optimization  
+- **Contributing to open-source ecosystems** through meaningful PRs, fixes, and feature additions  
+- **Strengthening corporate-grade engineering skills** across backend, ML, and system design  
 
 ---
 
-## 📬 **Let's Connect**
+## 💼 Career Intent
+Open to:
+
+- Software Engineering Internships  
+- Game Development Roles  
+- ML / AI Internships  
+- Technical Trainee Roles  
+- Collaboration & Co-building  
+
+Blending engineering with communication for high-value professional environments.
+
+---
+
+## 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-sinha-giet/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -117,9 +114,6 @@ Strong in **communication + PR + engineering**, I bring a unique corporate fit.
 ---
 
 ## ✨ Personal Note
-I combine technical capability with structured problem-solving and a business-aligned mindset.  
-My goal is to develop systems that are not only technically sound,  
-but also support long-term organizational objectives.
-
+I combine technical capability with structured problem-solving and a business-aligned mindset — building systems that deliver long-term value and real-world impact.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
