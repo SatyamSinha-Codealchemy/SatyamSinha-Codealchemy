@@ -1,97 +1,125 @@
-<h1 align="center">⚡ Hey, I'm Satyam Sinha</h1>
-<h3 align="center">Web Developer • Game Developer • Cloud Learner 🚀</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Satyam+Sinha;Aspiring+Software+Engineer;Game+Developer+%7C+ML+Explorer;Building+Smart+%26+Impactful+Tech" />
+</p>
+
+<!-- Wave SVG -->
+
+
+# <p align="center">✨ **Satyam Sinha — Engineering Smarter Futures** ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=FF5733&center=true&vCenter=true&width=500&lines=Web+Developer;Game+Developer;Creative+Technologist;Cloud+%26+AWS+Learner;Always+Building+New+Things" />
-
+  <strong>Creating seamless digital experiences — blending code, creativity, and clarity.</strong>
 </p>
 
 ---
 
-## 🌟 About Me
+## ⚡ **Professional Snapshot**
+I’m Satyam — a learner with the mindset of a builder.  
+Even though I’m new to GitHub, I bring a blend of **software engineering**, **game development**, and **ML fundamentals** that help me build clean, functional, and user-focused products.
 
-- 🎮 Game Development Intern → PR Associate → Game Developer @ **GauravGo Technologies**
-- 💻 Passion for **Frontend**, UI/UX, and modern web experiences  
-- ☁️ Growing in **AWS & Cloud Engineering**  
-- 🧠 Enjoys solving real-world problems through clean code  
-- 🎯 Goal 2025: Build impactful open-source projects & strengthen cloud skills  
+I work at the intersection of:
+
+- **Software Development** (Full-Stack + Backend)  
+- **Game Engineering** (Unity + C#)  
+- **Machine Learning** (Python, Scikit-learn, TensorFlow)  
+- **Cloud Fundamentals** (AWS AI)  
+- **PR + Strong Communication**  
+
+Corporate-ready. Fast-learning. Impact-driven.
 
 ---
 
-## 🚀 Tech Stack
-
-### **Frontend**
+## 🚀 **Tech Stack**
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### **Backend**
+### **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### **Tools & Platforms**
+### **AI / ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,aws,ps" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 **Featured Work**
+> *Since I recently joined GitHub, I’ll be uploading my projects regularly.*
 
+### 🔹 **Human Disease Prediction (ML + Streamlit)**  
+Clean UI + multi-disease prediction using ML models.
+
+### 🔹 **Potato Leaf Disease Detection (DL + CNN)**  
+TensorFlow CNN model + image classification pipeline.
+
+### 🔹 **Library Management System (PHP + SQL)**  
+End-to-end CRUD + user auth + dashboards.
+
+### 🔹 **10+ Unity Games**  
+Different genres • gameplay mechanics • UI systems • performance-optimized.
+
+---
+
+## 📊 **Current Focus (2025)**
+- Building advanced ML pipelines  
+- Scaling full-stack apps  
+- Developing polished Unity games  
+- Contributing to open-source  
+- Preparing for corporate-level roles  
+
+---
+
+## 💼 **Career Intent**
+I’m actively looking for:
+
+✔ Software Engineering Internships  
+✔ Game Development Roles  
+✔ ML & AI Internships  
+✔ Corporate Technical Trainee Roles  
+✔ Collaborative Projects  
+
+Strong in **communication + PR + engineering**, I bring a unique corporate fit.
+
+---
+
+## 📬 **Let's Connect**
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SatyamSinha-Codealchemy&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamSinha-Codealchemy&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSinha-Codealchemy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Snake (1% Dev Aesthetic)
-
-<p align="center">
-  <img src="https://github.com/SatyamSinha-Codealchemy/SatyamSinha-Codealchemy/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://www.linkedin.com/in/satyam-sinha-giet/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_sinhaji_/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=918260656946">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## ✨ Personal Note
+I combine technical capability with structured problem-solving and a business-aligned mindset.  
+My goal is to develop systems that are not only technically sound,  
+but also support long-term organizational objectives.
 
-### 🔍 **AI-Powered Fraud Detection in Auto Insurance**
-- Predictive modeling for smarter claim management  
-- Machine learning + data preprocessing + fraud pattern detection  
-- **Tech:** Python, Jupyter Notebook, ML algorithms  
-🔗 Repo: *AI-Powered-Fraud-Detection-in-Auto-Insurance-*  
 
----
-
-### 🎓 **Capstone Project**
-- Academic project with structured workflow  
-- Clean documentation & implementation  
-🔗 Repo: *Capstone-Project-*  
-
----
-
-### 🛒 **DailyGoodsCalculator**
-- Simple utility-based project  
-- Automates daily goods calculations  
-🔗 Repo: *DailyGoodsCalculator*  
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/satyam-sinha-giet/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/_sinhaji_/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://api.whatsapp.com/send/?phone=918260656946&text=Hello&type=phone_number&app_absent=0"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  ⭐ *If you like my work, feel free to star my repositories!*
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
