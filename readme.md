@@ -15,8 +15,8 @@
 ---
 
 ## ⚡ **Professional Snapshot**
-I’m Satyam — a learner with the mindset of a builder.  
-Even though I’m new to GitHub, I bring a blend of **software engineering**, **game development**, and **ML fundamentals** that help me build clean, functional, and user-focused products.
+I’m Satyam — a learner with the mindset of a builder.
+I work across software engineering, game development, and machine learning to create clean, functional, and user-focused digital solutions. My approach blends structured thinking, technical depth, and a commitment to building systems that perform reliably in real use cases.
 
 I work at the intersection of:
 
