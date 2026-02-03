@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=007BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Satyam+Sinha;Full-Stack+Dev+%7C+Game+Dev+%7C+ML+Enthusiast;Building+Impactful+Software+%26+AI+Systems" 
-       alt="Hi, I'm Satyam Sinha — Full-Stack Developer, Game Developer, ML Enthusiast" />
+       alt="Hi, I'm Satyam Sinha — Full-Stack Developer, Game Developer, AI/ML Enthusiast" />
 </p>
 
 <p align="center"><em>Satyam Kumar Sinha — Full-Stack Developer, Game Developer & ML/AI Enthusiast building scalable, high-impact software systems.</em></p>
